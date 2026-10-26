@@ -4,7 +4,7 @@
 
   <img src="docs/mouse.png" width="600" alt="MISL RAT">
 
-  <p><strong>Modular remote administration toolkit — red-team &amp; lab use</strong></p>
+  <p><strong>Modular remote administration toolkit
 
 </div>
 
