@@ -1,28 +1,28 @@
-<p align="center">
-  <strong>MISL RAT</strong>
-</p>
+<div align="center">
 
-<p align="center">
-<pre>
-                     ______
-                    .-"      "-.
-                   /            \
-       _          |              |          _
-      ( \         |,  .-.  .-.  ,|         / )
-       > "=._     | )(__/  \__)( |     _.=" <
-      (_/"=._"=._ |/     /\     \| _.="_.="\_)
-             "=._ (_     ^^     _)"_.="
-                 "=\__|IIIIII|__/="
-                _.="| \IIIIII/ |"=._
-      _     _.="_.="\          /"=._"=._     _
-     ( \_.="_.="     `--------`     "=._"=._/ )
-      > _.="                            "=._ <
-     (_/   jgs                              \_)
-</pre>
-</p>
-<p align="center">
+  <strong>MISL RAT</strong>
+
+  <pre>
+  
+
+         __             _,-"~^"-.
+       _// )      _,-"~`         `.
+     ." ( /`"-,-"`                 ;
+    / 6                             ;
+   /           ,             ,-"     ;
+  (,__.--.      \           /        ;
+   //'   /`-.\   |          |        `._________
+     _.-'_/`  )  )--...,,,___\     \-----------,)
+   ((("~` _.-'.-'           __`-.   )         //
+         ((("`             (((---~"`         //
+                                            ((________________
+                                            `----""""~~~~^^^```
+
+  </pre>
+
   <strong>Modular remote administration toolkit — red-team &amp; lab use</strong>
-</p>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HACKTOOL-ff2d55?style=for-the-badge&logo=target&logoColor=white" alt="HACKTOOL">
