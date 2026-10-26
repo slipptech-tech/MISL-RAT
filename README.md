@@ -130,5 +130,6 @@ Python 3.11+, FastAPI + WebSocket.
 
 ---
 
-## Repository layout
+## The developers aren't responsible for your actions. The program doesn’t promise full protection or anonymity, use it at your own risk.
+
 
