@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 140" width="720" height="140">
+  <style>
+    text {
+      font-family: 'Cascadia Mono', 'Consolas', 'DejaVu Sans Mono', monospace;
+      font-size: 13px;
+      fill: #ff2d55;
+    }
+  </style>
+  <g xml:space="preserve">
+    <text x="10" y="20">███╗   ███╗██╗███████╗██╗         ██████╗  █████╗ ████████╗</text>
+    <text x="10" y="38">████╗ ████║██║██╔════╝██║         ██╔══██╗██╔══██╗╚══██╔══╝</text>
+    <text x="10" y="56">██╔████╔██║██║███████╗██║         ██████╔╝███████║   ██║</text>
+    <text x="10" y="74">██║╚██╔╝██║██║╚════██║██║         ██╔══██╗██╔══██║   ██║</text>
+    <text x="10" y="92">██║ ╚═╝ ██║██║███████║███████╗    ██║  ██║██║  ██║   ██║</text>
+    <text x="10" y="110">╚═╝     ╚═╝╚═╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝</text>
+  </g>
+</svg>
