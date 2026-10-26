@@ -1,17 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 140" width="720" height="140">
-  <style>
-    text {
-      font-family: 'Cascadia Mono', 'Consolas', 'DejaVu Sans Mono', monospace;
-      font-size: 13px;
-      fill: #ff2d55;
-    }
-  </style>
-  <g xml:space="preserve">
-    <text x="10" y="20">███╗   ███╗██╗███████╗██╗         ██████╗  █████╗ ████████╗</text>
-    <text x="10" y="38">████╗ ████║██║██╔════╝██║         ██╔══██╗██╔══██╗╚══██╔══╝</text>
-    <text x="10" y="56">██╔████╔██║██║███████╗██║         ██████╔╝███████║   ██║</text>
-    <text x="10" y="74">██║╚██╔╝██║██║╚════██║██║         ██╔══██╗██╔══██║   ██║</text>
-    <text x="10" y="92">██║ ╚═╝ ██║██║███████║███████╗    ██║  ██║██║  ██║   ██║</text>
-    <text x="10" y="110">╚═╝     ╚═╝╚═╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 80" width="450" height="80">
+  <!-- MISL (серый) -->
+  <g fill="#e5e7eb">
+    <!-- M -->
+    <rect x="0" y="0" width="8" height="8"/><rect x="32" y="0" width="8" height="8"/>
+    <rect x="0" y="10" width="8" height="8"/><rect x="8" y="10" width="8" height="8"/><rect x="24" y="10" width="8" height="8"/><rect x="32" y="10" width="8" height="8"/>
+    <rect x="0" y="20" width="8" height="8"/><rect x="16" y="20" width="8" height="8"/><rect x="32" y="20" width="8" height="8"/>
+    <rect x="0" y="30" width="8" height="8"/><rect x="32" y="30" width="8" height="8"/>
+    <rect x="0" y="40" width="8" height="8"/><rect x="32" y="40" width="8" height="8"/>
+    <rect x="0" y="50" width="8" height="8"/><rect x="32" y="50" width="8" height="8"/>
+    <!-- I -->
+    <rect x="60" y="0" width="8" height="8"/><rect x="60" y="10" width="8" height="8"/>
+    <rect x="60" y="20" width="8" height="8"/><rect x="60" y="30" width="8" height="8"/>
+    <rect x="60" y="40" width="8" height="8"/><rect x="60" y="50" width="8" height="8"/>
+    <!-- S -->
+    <rect x="80" y="0" width="24" height="8"/>
+    <rect x="80" y="10" width="8" height="8"/>
+    <rect x="80" y="20" width="24" height="8"/>
+    <rect x="96" y="30" width="8" height="8"/>
+    <rect x="80" y="40" width="24" height="8"/>
+    <rect x="80" y="50" width="24" height="8"/>
+    <!-- L -->
+    <rect x="120" y="0" width="8" height="8"/><rect x="120" y="10" width="8" height="8"/>
+    <rect x="120" y="20" width="8" height="8"/><rect x="120" y="30" width="8" height="8"/>
+    <rect x="120" y="40" width="8" height="8"/><rect x="120" y="50" width="32" height="8"/>
+  </g>
+
+  <!-- RAT (красный) -->
+  <g fill="#ff2d55">
+    <!-- R -->
+    <rect x="200" y="0" width="24" height="8"/>
+    <rect x="200" y="10" width="8" height="8"/><rect x="216" y="10" width="8" height="8"/>
+    <rect x="200" y="20" width="24" height="8"/>
+    <rect x="200" y="30" width="8" height="8"/><rect x="212" y="30" width="8" height="8"/>
+    <rect x="200" y="40" width="8" height="8"/><rect x="216" y="40" width="8" height="8"/>
+    <rect x="200" y="50" width="8" height="8"/><rect x="220" y="50" width="8" height="8"/>
+    <!-- A -->
+    <rect x="240" y="0" width="8" height="8"/><rect x="264" y="0" width="8" height="8"/>
+    <rect x="240" y="10" width="8" height="8"/><rect x="264" y="10" width="8" height="8"/>
+    <rect x="240" y="20" width="32" height="8"/>
+    <rect x="240" y="30" width="8" height="8"/><rect x="264" y="30" width="8" height="8"/>
+    <rect x="240" y="40" width="8" height="8"/><rect x="264" y="40" width="8" height="8"/>
+    <rect x="240" y="50" width="8" height="8"/><rect x="264" y="50" width="8" height="8"/>
+    <!-- T -->
+    <rect x="280" y="0" width="32" height="8"/>
+    <rect x="292" y="10" width="8" height="8"/>
+    <rect x="292" y="20" width="8" height="8"/>
+    <rect x="292" y="30" width="8" height="8"/>
+    <rect x="292" y="40" width="8" height="8"/>
+    <rect x="292" y="50" width="8" height="8"/>
   </g>
 </svg>
