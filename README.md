@@ -1,5 +1,25 @@
-<h1 align="center">MISL RAT</h1>
+<p align="center">
+  <strong>MISL RAT</strong>
+</p>
 
+<p align="center">
+<pre>
+                     ______
+                    .-"      "-.
+                   /            \
+       _          |              |          _
+      ( \         |,  .-.  .-.  ,|         / )
+       > "=._     | )(__/  \__)( |     _.=" <
+      (_/"=._"=._ |/     /\     \| _.="_.="\_)
+             "=._ (_     ^^     _)"_.="
+                 "=\__|IIIIII|__/="
+                _.="| \IIIIII/ |"=._
+      _     _.="_.="\          /"=._"=._     _
+     ( \_.="_.="     `--------`     "=._"=._/ )
+      > _.="                            "=._ <
+     (_/   jgs                              \_)
+</pre>
+</p>
 <p align="center">
   <strong>Modular remote administration toolkit — red-team &amp; lab use</strong>
 </p>
