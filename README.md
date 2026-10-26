@@ -1,26 +1,10 @@
 <div align="center">
 
-  <strong>MISL RAT</strong>
+  <h1>MISL RAT</h1>
 
-  <pre>
-  
+  <img src="docs/mouse.png" width="600" alt="MISL RAT">
 
-         __             _,-"~^"-.
-       _// )      _,-"~`         `.
-     ." ( /`"-,-"`                 ;
-    / 6                             ;
-   /           ,             ,-"     ;
-  (,__.--.      \           /        ;
-   //'   /`-.\   |          |        `._________
-     _.-'_/`  )  )--...,,,___\     \-----------,)
-   ((("~` _.-'.-'           __`-.   )         //
-         ((("`             (((---~"`         //
-                                            ((________________
-                                            `----""""~~~~^^^```
-
-  </pre>
-
-  <strong>Modular remote administration toolkit — red-team &amp; lab use</strong>
+  <p><strong>Modular remote administration toolkit — red-team &amp; lab use</strong></p>
 
 </div>
 
@@ -29,7 +13,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/OPEN--SOURCE-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OPEN-SOURCE">
 </p>
-
 ---
 
 A modular remote administration toolkit for red-team engagements and
