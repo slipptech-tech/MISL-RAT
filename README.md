@@ -1,21 +1,14 @@
-<div align="center">
-<pre>
-███╗   ███╗██╗███████╗██╗         ██████╗  █████╗ ████████╗
-████╗ ████║██║██╔════╝██║         ██╔══██╗██╔══██╗╚══██╔══╝
-██╔████╔██║██║███████╗██║         ██████╔╝███████║   ██║
-██║╚██╔╝██║██║╚════██║██║         ██╔══██╗██╔══██║   ██║
-██║ ╚═╝ ██║██║███████║███████╗    ██║  ██║██║  ██║   ██║
-╚═╝     ╚═╝╚═╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
-</pre>
-</div>
+<h1 align="center">MISL RAT</h1>
 
-**Modular remote administration toolkit — red-team & lab use**
+<p align="center">
+  <strong>Modular remote administration toolkit — red-team &amp; lab use</strong>
+</p>
 
-[![HACKTOOL](https://img.shields.io/badge/HACKTOOL-ff2d55?style=for-the-badge&logo=target&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![OPEN-SOURCE](https://img.shields.io/badge/OPEN--SOURCE-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKTOOL-ff2d55?style=for-the-badge&logo=target&logoColor=white" alt="HACKTOOL">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/OPEN--SOURCE-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OPEN-SOURCE">
+</p>
 
 ---
 
