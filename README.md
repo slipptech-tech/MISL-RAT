@@ -1,6 +1,13 @@
 <div align="center">
-
-# MISL RAT
+<pre>
+███╗   ███╗██╗███████╗██╗         ██████╗  █████╗ ████████╗
+████╗ ████║██║██╔════╝██║         ██╔══██╗██╔══██╗╚══██╔══╝
+██╔████╔██║██║███████╗██║         ██████╔╝███████║   ██║
+██║╚██╔╝██║██║╚════██║██║         ██╔══██╗██╔══██║   ██║
+██║ ╚═╝ ██║██║███████║███████╗    ██║  ██║██║  ██║   ██║
+╚═╝     ╚═╝╚═╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+</pre>
+</div>
 
 **Modular remote administration toolkit — red-team & lab use**
 
@@ -129,6 +136,9 @@ WebSocket. Single EXE, `/MT`, no external DLLs.
 Python 3.11+, FastAPI + WebSocket.
 
 ---
+## Contact Us: 
+Telegram: @GazkisMeneger_BOT
+
 
 ## The developers aren't responsible for your actions. The program doesn’t promise full protection or anonymity, use it at your own risk.
 
