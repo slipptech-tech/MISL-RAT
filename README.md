@@ -2,7 +2,7 @@
 
   <h1>MISL RAT</h1>
 
-  <img src="docs/mouse.png" width="600" alt="MISL RAT">
+  <img src="docs/mousee.png" width="600" alt="MISL RAT">
 
   <p><strong>Modular remote administration toolkit
 
